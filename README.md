@@ -1,4 +1,3 @@
-# Assignment 2 Description
 
 ## Project Overview
 This project is the second assignment for the COMP8880 course, covering topics such as probability distributions, graph analysis, and matrix operations. The main tasks are solved and visualized in a Jupyter Notebook, with Python utility functions supporting data processing and graph structure analysis.
